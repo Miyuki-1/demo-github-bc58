@@ -11,5 +11,10 @@
  ++ đẩy lần 2 trở đi
  git push
 
+<<<<<<< HEAD
 
  git barnd ( dùng để xem các nhánh trong lệnh )
+=======
++ tạo nhánh
+git checkout -b login
+>>>>>>> login
