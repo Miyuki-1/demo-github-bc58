@@ -1,0 +1,12 @@
+ git init
+
+ git remote add origin https://github.com/Miyuki-1/demo-github-bc58.git
+
+
+ + đẩy từ local lên remote 
+ git add -A 
+ git commit -m " tao trang home.html "
+ ++ đẩy lần đầu
+ git push -u origin master 
+ ++ đẩy lần 2 trở đi
+ git push
