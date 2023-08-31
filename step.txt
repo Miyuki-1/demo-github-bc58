@@ -10,3 +10,6 @@
  git push -u origin master 
  ++ đẩy lần 2 trở đi
  git push
+
+
+ git barnd ( dùng để xem các nhánh trong lệnh )
